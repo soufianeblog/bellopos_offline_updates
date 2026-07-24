@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.0",
-  "latest_version_name": "2.1.0+2",
+  "latest_version": "2.1.1",
+  "latest_version_name": "2.1.1+3",
   "latest_version_date": "2026-07-24",
-  "latest_release_notes": "Mises à jour automatiques : téléchargement, installation et redémarrage en un clic ; reprise d'un téléchargement déjà effectué ; et les nouveautés s'affichent après chaque mise à jour.",
+  "latest_release_notes": "Clavier visuel corrigé (la saisie n'efface plus le texte déjà entré) et code PIN limité aux chiffres (4 à 6 chiffres).",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.0+2-installer-2026-07-24_18-43-22.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.0+2-installer-2026-07-24_18-43-22.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.1+3-installer-2026-07-24_20-23-38.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.1+3-installer-2026-07-24_20-23-38.exe"
     }
   }
 }
