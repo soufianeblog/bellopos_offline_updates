@@ -2,11 +2,11 @@
   "latest_version": "2.0.0",
   "latest_version_name": "2.0.0+1",
   "notes": "BelloPOS 2.0 — Language setup, plan selection, second screen fix, module gating, visual keyboard improvements.",
-  "published_at": "2026-07-22",
+  "published_at": "2026-07-24",
   "platforms": {
     "windows": {
-      "file": "BelloPOS-windows-v2.0.0+1-installer-2026-07-22_20-00-04.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/releases/download/v2.0.0/BelloPOS-windows-v2.0.0+1-installer-2026-07-22_20-00-04.exe"
+      "file": "BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/releases/download/v2.0.0/BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe"
     }
   }
 }
