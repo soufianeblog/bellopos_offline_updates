@@ -5,8 +5,8 @@
   "published_at": "2026-07-24",
   "platforms": {
     "windows": {
-      "file": "BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/releases/download/v2.0.0/BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.0.0+1-installer-2026-07-24_16-03-41.exe"
     }
   }
 }
