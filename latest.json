@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.4",
-  "latest_version_name": "2.1.4+6",
+  "latest_version": "2.1.5",
+  "latest_version_name": "2.1.5+7",
   "latest_version_date": "2026-07-25",
-  "latest_release_notes": "La dernière page de vente ne peut plus être fermée : un panier reste toujours ouvert.",
+  "latest_release_notes": "Journaux d'utilisation désormais enregistrés et inclus dans l'envoi de diagnostics (mardi et vendredi à 17h), sans doublons.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.4+6-installer-2026-07-25_15-54-43.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.4+6-installer-2026-07-25_15-54-43.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.5+7-installer-2026-07-25_19-27-18.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.5+7-installer-2026-07-25_19-27-18.exe"
     }
   }
 }
