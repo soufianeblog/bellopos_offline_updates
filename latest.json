@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.10",
-  "latest_version_name": "2.1.10+12",
+  "latest_version": "2.1.11",
+  "latest_version_name": "2.1.11+13",
   "latest_version_date": "2026-07-26",
-  "latest_release_notes": "Mise à jour repensée : plus de fenêtre noire pendant l'installation. Une fois le téléchargement terminé, le bouton « Quitter et installer » ferme l'application, installe la nouvelle version et la relance.",
+  "latest_release_notes": "Le bouton Quitter de l'écran de connexion demande maintenant une confirmation avant de fermer l'application.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.10+12-installer-2026-07-26_14-51-01.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.10+12-installer-2026-07-26_14-51-01.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.11+13-installer-2026-07-26_16-43-40.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.11+13-installer-2026-07-26_16-43-40.exe"
     }
   }
 }
