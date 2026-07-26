@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.11",
-  "latest_version_name": "2.1.11+13",
+  "latest_version": "2.1.12",
+  "latest_version_name": "2.1.12+14",
   "latest_version_date": "2026-07-26",
-  "latest_release_notes": "Le bouton Quitter de l'écran de connexion demande maintenant une confirmation avant de fermer l'application.",
+  "latest_release_notes": "Mise à jour : l'application redémarre correctement après l'installation (erreur 0xc0000043 corrigée) et le texte de la fenêtre de mise à jour ne déborde plus.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.11+13-installer-2026-07-26_16-43-40.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.11+13-installer-2026-07-26_16-43-40.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.12+14-installer-2026-07-26_18-01-10.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.12+14-installer-2026-07-26_18-01-10.exe"
     }
   }
 }
