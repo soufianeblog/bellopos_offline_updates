@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.9",
-  "latest_version_name": "2.1.9+11",
+  "latest_version": "2.1.10",
+  "latest_version_name": "2.1.10+12",
   "latest_version_date": "2026-07-26",
-  "latest_release_notes": "Modification rapide de l'inventaire : la description du produit se modifie maintenant directement dans la liste, sous le nom.",
+  "latest_release_notes": "Mise à jour repensée : plus de fenêtre noire pendant l'installation. Une fois le téléchargement terminé, le bouton « Quitter et installer » ferme l'application, installe la nouvelle version et la relance.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.9+11-installer-2026-07-26_14-31-23.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.9+11-installer-2026-07-26_14-31-23.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.10+12-installer-2026-07-26_14-51-01.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.10+12-installer-2026-07-26_14-51-01.exe"
     }
   }
 }
