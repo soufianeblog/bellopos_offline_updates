@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.8",
-  "latest_version_name": "2.1.8+10",
+  "latest_version": "2.1.9",
+  "latest_version_name": "2.1.9+11",
   "latest_version_date": "2026-07-26",
-  "latest_release_notes": "Correction importante : les tickets et factures d'une commande dont le client n'a pas d'adresse ne s'imprimaient plus. La mise à jour s'installe maintenant toute seule à la fin du téléchargement, et l'inventaire ouvert depuis une notification a de nouveau un bouton retour.",
+  "latest_release_notes": "Modification rapide de l'inventaire : la description du produit se modifie maintenant directement dans la liste, sous le nom.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.8+10-installer-2026-07-26_14-11-48.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.8+10-installer-2026-07-26_14-11-48.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.9+11-installer-2026-07-26_14-31-23.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.9+11-installer-2026-07-26_14-31-23.exe"
     }
   }
 }
