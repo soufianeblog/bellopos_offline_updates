@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.14",
-  "latest_version_name": "2.1.14+16",
-  "latest_version_date": "2026-07-26",
-  "latest_release_notes": "Code-barres : un produit sans code-barres peut en obtenir un en un clic, depuis l'inventaire ou la fiche produit. Le code généré est interne au magasin (il ne peut pas entrer en conflit avec un code fournisseur) et unique, et s'imprime comme les autres.",
+  "latest_version": "2.1.15",
+  "latest_version_name": "2.1.15+17",
+  "latest_version_date": "2026-07-27",
+  "latest_release_notes": "Correction de l'écran blanc qui apparaissait parfois à l'ouverture, et qu'il fallait passer en plein écran pour faire disparaître. La fenêtre ne s'affiche plus avant que tout soit prêt, et elle s'ouvre directement agrandie.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.14+16-installer-2026-07-26_20-53-32.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.14+16-installer-2026-07-26_20-53-32.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.15+17-installer-2026-07-27_17-44-21.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.15+17-installer-2026-07-27_17-44-21.exe"
     }
   }
 }
