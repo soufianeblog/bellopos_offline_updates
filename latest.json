@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.15",
-  "latest_version_name": "2.1.15+17",
-  "latest_version_date": "2026-07-27",
-  "latest_release_notes": "Correction de l'écran blanc qui apparaissait parfois à l'ouverture, et qu'il fallait passer en plein écran pour faire disparaître. La fenêtre ne s'affiche plus avant que tout soit prêt, et elle s'ouvre directement agrandie.",
+  "latest_version": "2.1.16",
+  "latest_version_name": "2.1.16+18",
+  "latest_version_date": "2026-07-28",
+  "latest_release_notes": "Restaurant : chaque vente affiche maintenant sa table, son nom et son étage à côté du total, et le bouton Table devient vert quand une table est choisie. Depuis le plan des tables, une commande peut être déplacée vers une autre table ou un autre étage. Correction : changer le statut cuisine depuis le plan des tables ne supprime plus les articles de la commande.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.15+17-installer-2026-07-27_17-44-21.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.15+17-installer-2026-07-27_17-44-21.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.16+18-installer-2026-07-28_05-00-40.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.16+18-installer-2026-07-28_05-00-40.exe"
     }
   }
 }
