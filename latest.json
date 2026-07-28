@@ -5,8 +5,8 @@
   "latest_release_notes": "Notifications : le bouton d'action ouvre désormais l'inventaire dans l'application — barre du haut et menu du bas conservés — et y recherche le produit par sa référence. La vidéo de démonstration fournie avec l'application a été retirée.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17+19-installer-2026-07-28_18-17-22.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17+19-installer-2026-07-28_18-17-22.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17%2B19-installer-2026-07-28_18-17-22.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17%2B19-installer-2026-07-28_18-17-22.exe"
     }
   }
 }
