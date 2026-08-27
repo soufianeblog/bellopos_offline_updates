@@ -5,8 +5,8 @@
   "latest_release_notes": "Mises à jour : l'application vérifie maintenant automatiquement les nouvelles versions à chaque démarrage et propose leur installation. Cette vérification est activée par défaut et peut être désactivée dans Paramètres → Général ; le choix reste enregistré sur cet appareil.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.19%2B21-installer-2026-08-27_08-11-45.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.19%2B21-installer-2026-08-27_08-11-45.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.19%2B21-installer-2026-08-27_11-06-19.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.19%2B21-installer-2026-08-27_11-06-19.exe"
     }
   }
 }
