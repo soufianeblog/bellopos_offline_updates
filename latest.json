@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.1.17",
-  "latest_version_name": "2.1.17+19",
-  "latest_version_date": "2026-07-28",
-  "latest_release_notes": "Notifications : le bouton d'action ouvre désormais l'inventaire dans l'application — barre du haut et menu du bas conservés — et y recherche le produit par sa référence. La vidéo de démonstration fournie avec l'application a été retirée.",
+  "latest_version": "2.1.18",
+  "latest_version_name": "2.1.18+20",
+  "latest_version_date": "2026-08-27",
+  "latest_release_notes": "Corrections de stabilité : l'activation et les changements de forfait sont désormais plus fiables, les sauvegardes rapprochées d'une commande ne créent plus de conflit, et plusieurs erreurs liées aux catégories et aux postes Windows ont été corrigées.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17%2B19-installer-2026-07-28_18-17-22.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.17%2B19-installer-2026-07-28_18-17-22.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.18%2B20-installer-2026-08-27_07-43-22.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.18%2B20-installer-2026-08-27_07-43-22.exe"
     }
   }
 }
