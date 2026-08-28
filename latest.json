@@ -1,12 +1,13 @@
 {
-  "latest_version": "2.1.20",
-  "latest_version_name": "2.1.20+22",
-  "latest_version_date": "2026-08-27",
-  "latest_release_notes": "Diagnostics et fiabilité renforcés : les rapports hebdomadaires incluent maintenant le catalogue et la configuration avec les données sensibles masquées. L'identifiant Windows, l'activation et l'enregistrement simultané des commandes sont plus robustes.",
+  "latest_version": "2.1.21",
+  "latest_version_name": "2.1.21+23",
+  "latest_version_date": "2026-08-28",
+  "latest_release_notes": "Restaurant : le plan des tables permet maintenant de créer et modifier les étages, espaces et tables depuis le mode édition. Les applications web Serveur et Cuisine sont plus faciles à ouvrir et à partager sur le réseau local. Paramètres → Base de données propose aussi une importation sélective des données de démonstration.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.20%2B22-installer-2026-08-27_11-27-52.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.20%2B22-installer-2026-08-27_11-27-52.exe"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.21%2B23-installer-2026-08-28_19-07-16.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.21%2B23-installer-2026-08-28_19-07-16.exe",
+      "size_bytes": 32086494
     }
   }
 }
