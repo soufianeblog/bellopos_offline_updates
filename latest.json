@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.2.0",
-  "latest_version_name": "2.2.0+25",
+  "latest_version": "2.3.0",
+  "latest_version_name": "2.3.0+27",
   "latest_version_date": "2026-08-29",
-  "latest_release_notes": "Documents commerciaux : devis, commandes, livraisons, factures et avoirs avec conversion, numérotation continue, impression et export. Ajout du carnet client, du pont comptable CGNC et des exports pour la fiduciaire. Les factures électroniques peuvent être scellées et exportées au format UBL 2.1, prêtes à être déposées par le commerçant.",
+  "latest_release_notes": "Nouvelle base de données : l'application repart d'un schéma propre, sans les mises à niveau accumulées des versions précédentes. Les anciennes bases ne sont plus lues et sont laissées intactes. Corrige aussi le nom du produit affiché à la première mise en service.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.2.0%2B25-installer-2026-08-29_07-22-36.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.2.0%2B25-installer-2026-08-29_07-22-36.exe",
-      "size_bytes": 32224580
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.3.0%2B27-installer-2026-08-29_17-08-06.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.3.0%2B27-installer-2026-08-29_17-08-06.exe",
+      "size_bytes": 32258111
     }
   }
 }
