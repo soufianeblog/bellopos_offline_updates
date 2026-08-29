@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.1.22",
-  "latest_version_name": "2.1.22+24",
-  "latest_version_date": "2026-08-28",
-  "latest_release_notes": "Factures : de nouveaux réglages permettent de choisir les informations affichées et la présentation sépare clairement la facture du client. Achats : le statut des commandes est mieux aligné. La calculatrice suit maintenant le thème clair ou sombre. Les diagnostics privés incluent aussi l’adresse IP publique de l’appareil.",
+  "latest_version": "2.2.0",
+  "latest_version_name": "2.2.0+25",
+  "latest_version_date": "2026-08-29",
+  "latest_release_notes": "Documents commerciaux : devis, commandes, livraisons, factures et avoirs avec conversion, numérotation continue, impression et export. Ajout du carnet client, du pont comptable CGNC et des exports pour la fiduciaire. Les factures électroniques peuvent être scellées et exportées au format UBL 2.1, prêtes à être déposées par le commerçant.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.22%2B24-installer-2026-08-28_20-44-48.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.1.22%2B24-installer-2026-08-28_20-44-48.exe",
-      "size_bytes": 32086235
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.2.0%2B25-installer-2026-08-29_07-22-36.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.2.0%2B25-installer-2026-08-29_07-22-36.exe",
+      "size_bytes": 32224580
     }
   }
 }
