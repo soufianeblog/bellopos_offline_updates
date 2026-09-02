@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.3.1",
-  "latest_version_name": "2.3.1+28",
-  "latest_version_date": "2026-08-29",
-  "latest_release_notes": "Gestion : un bouton « Tout supprimer » permet de vider d'un coup les produits, catégories, clients, fournisseurs, marques et livreurs — pratique pour retirer les données de démonstration. La suppression demande confirmation et indique le nombre d'éléments concernés ; un client ayant encore un solde sur son carnet est conservé.",
+  "latest_version": "3.0.0",
+  "latest_version_name": "3.0.0+30",
+  "latest_version_date": "2026-09-02",
+  "latest_release_notes": "Nouvelle base de données : l'application repart une nouvelle fois d'un schéma propre, sans les vingt mises à niveau accumulées depuis la 2.3. Une base laissée par une version antérieure à la 3.0 n'est ni lue ni modifiée — elle reste intacte sur la machine, et une base neuve est créée à côté. Corrige aussi l'écran client (le second écran orienté vers l'acheteur) qui ne suivait plus le panier lors d'un changement d'onglet de vente.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.3.1%2B28-installer-2026-08-29_23-24-43.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v2.3.1%2B28-installer-2026-08-29_23-24-43.exe",
-      "size_bytes": 32254197
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.0.0%2B30-installer-2026-09-01_22-49-51.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.0.0%2B30-installer-2026-09-01_22-49-51.exe",
+      "size_bytes": 32566603
     }
   }
 }
