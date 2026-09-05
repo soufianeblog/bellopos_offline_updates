@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.1.0",
-  "latest_version_name": "3.1.0+31",
-  "latest_version_date": "2026-09-02",
-  "latest_release_notes": "Reprise de catalogue depuis Odoo. À l'installation comme depuis Gestion → Produits, l'application se connecte à votre serveur Odoo et importe vos catégories et vos produits — prix, code-barres, référence, prix d'achat, TVA et arborescence des catégories. Rien n'est modifié dans Odoo : les données sont seulement lues, et l'import peut être relancé sans créer de doublons.\\n\\nFiscalité marocaine mise à jour. La réforme de la TVA est achevée au 1er janvier 2026 : il ne reste que 20 % et 10 %, les taux 14 % et 7 % ne sont plus proposés (les ventes déjà enregistrées à ces taux restent intactes). Le droit de timbre de 0,25 % sur les règlements en espèces peut maintenant être perçu automatiquement — désactivé par défaut, à activer dans Paramètres → Conformité si votre entreprise y est assujettie. Sur la paie, l'abattement pour frais professionnels suit désormais le barème en vigueur : 35 % jusqu'à 6 500 DH par mois, 25 % au-delà, plafonné à 2 916,67 DH.\\n\\nCorrections de calcul. Une facture déduisant un acompte comptait la part déjà facturée une seconde fois dans le tableau de bord, la caisse et le journal des ventes. Les factures imprimées reprennent maintenant le droit de timbre et le pourboire, et les documents conservent les deux taux de taxe des pays qui en appliquent deux.\\n\\nEnfin, à l'installation : les choix de démarrage sont réordonnés (données de démonstration, base vide, puis import), et le bouton qui déclare la caisse principale ne peut plus être cliqué deux fois — il affiche sa progression pendant la recherche du réseau.",
+  "latest_version": "3.1.2",
+  "latest_version_name": "3.1.2+33",
+  "latest_version_date": "2026-09-05",
+  "latest_release_notes": "Impression en cuisine. Un produit peut être marqué « envoyer en cuisine » ; dès qu'une commande en contient un, elle s'imprime aussi sur les imprimantes cuisine — plusieurs peuvent être branchées, et chacune reçoit sa copie. Le ticket cuisine a ses propres réglages (table, notes, heure, articles cuisine seulement, avec ou sans prix) : ce n'est plus une copie du ticket client. Sur le ticket client, les articles envoyés en cuisine peuvent être soulignés.\\n\\nTicket client : nouveaux interrupteurs pour le montant donné, le rendu, le sous-total, la table de la commande, le montant payé et le reste à payer. Les deux derniers ne s'impriment que si la vente n'est pas entièrement réglée — un ticket payé comptant ne change pas.\\n\\nSauvegardes : intervalle toutes les heures, toutes les 3 heures, ou une valeur personnalisée.\\n\\nSécurité : modifier ou supprimer une vente déjà enregistrée demande maintenant la permission correspondante. Un caissier peut encaisser sans pouvoir revenir sur une vente terminée.\\n\\nLe clavier visuel fonctionne enfin dans les fenêtres des salles et des tables.\\n\\nInstallation : le runtime Microsoft Visual C++ est installé automatiquement s'il manque. C'est la cause des installations qui démarraient puis se fermaient toutes seules juste après la connexion.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.0%2B31-installer-2026-09-02_08-59-03.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.0%2B31-installer-2026-09-02_08-59-03.exe",
-      "size_bytes": 32595143
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.2%2B33-installer-2026-09-05_22-04-31.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.2%2B33-installer-2026-09-05_22-04-31.exe",
+      "size_bytes": 56322386
     }
   }
 }
