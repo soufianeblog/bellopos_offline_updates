@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.1.6",
-  "latest_version_name": "3.1.6+37",
+  "latest_version": "3.1.8",
+  "latest_version_name": "3.1.8+39",
   "latest_version_date": "2026-09-09",
-  "latest_release_notes": "Ce qui est payant est vraiment masqué. Le voile des écrans réservés aux forfaits Go et Pro était translucide : les chiffres se lisaient au travers. Il est désormais opaque.\\n\\nDans les Rapports, chaque onglet montre un seul échantillon — son premier graphique, ou la première ligne de son tableau — et toutes les autres valeurs sont remplacées par des points. Les onglets restent consultables ; les filtres, la période et l'export ne le sont pas.\\n\\nImpression des documents : accessible sur tous les forfaits, y compris Lite. C'est là que se règle l'imprimante des tickets, et un till Lite imprime des tickets.\\n\\nLe voyant API disparaît quand le forfait ne comprend pas les terminaux réseau : un voyant rouge en permanence pour une fonction non achetée se lit comme une panne.",
+  "latest_release_notes": "Clavier visuel : les flèches déplacent le curseur dans le texte, et une touche appuyée ne fait plus perdre la sélection du champ. Le pavé numérique s'affiche entièrement, sans débordement.\\n\\nGestion : les champs des formulaires ouvrent le clavier ou le pavé dès qu'on les touche.\\n\\nConnexion : les comptes clignotent quand un code est saisi sans avoir choisi l'utilisateur — au moment de l'oubli, plus après coup.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.6%2B37-installer-2026-09-09_17-20-53.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.6%2B37-installer-2026-09-09_17-20-53.exe",
-      "size_bytes": 56365207
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.8%2B39-installer-2026-09-09_18-06-29.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.8%2B39-installer-2026-09-09_18-06-29.exe",
+      "size_bytes": 56369201
     }
   }
 }
