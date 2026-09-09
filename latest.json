@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.1.9",
-  "latest_version_name": "3.1.9+40",
+  "latest_version": "3.2.0",
+  "latest_version_name": "3.2.0+41",
   "latest_version_date": "2026-09-09",
-  "latest_release_notes": "Écran de connexion : après avoir clignoté pour signaler qu'aucun utilisateur n'est choisi, les comptes retrouvent leur affichage normal — ils restaient estompés et pouvaient passer pour désactivés.",
+  "latest_release_notes": "Impression des documents retrouve sa place : une entrée à part entière dans les Paramètres, sur tous les forfaits, qui ouvre directement le réglage du ticket et de l'imprimante.\\n\\nVérification des mises à jour : le bouton se désactive pendant la recherche et affiche « Vérification en cours… », au lieu de rester muet le temps de la réponse.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.9%2B40-installer-2026-09-09_18-22-58.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.9%2B40-installer-2026-09-09_18-22-58.exe",
-      "size_bytes": 56359741
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.2.0%2B41-installer-2026-09-09_18-48-58.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.2.0%2B41-installer-2026-09-09_18-48-58.exe",
+      "size_bytes": 56371613
     }
   }
 }
