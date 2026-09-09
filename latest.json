@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.1.5",
-  "latest_version_name": "3.1.5+36",
+  "latest_version": "3.1.6",
+  "latest_version_name": "3.1.6+37",
   "latest_version_date": "2026-09-09",
-  "latest_release_notes": "Forfait Lite : ce qui est payant est montré, pas caché. Les Rapports, les Achats, la Sécurité, les Rôles, le Restaurant, la Comptabilité et les Sauvegardes s'ouvrent sur tous les forfaits et passent sous un voile sombre, avec un bouton qui écrit le message WhatsApp à notre place — identifiant de la machine, forfait actuel et version compris — et « Voir les forfaits » qui ouvre enfin la page des forfaits.\\n\\nLes Rapports se lisent comme un échantillon : chaque onglet montre son début — le premier graphique, la première ligne d'un tableau — et le reste est voilé. Les onglets restent navigables ; les filtres, la période et l'export ne le sont pas.\\n\\nLes Achats apparaissent dans la barre de navigation sur tous les forfaits, entièrement sous voile tant que le module n'est pas inclus.\\n\\nSauvegardes : un seul voile sur la page entière, au lieu d'un par carte.\\n\\nLa note d'une vente et son statut passent aux forfaits Go et Pro, dans la nouvelle vente comme dans les ventes.",
+  "latest_release_notes": "Ce qui est payant est vraiment masqué. Le voile des écrans réservés aux forfaits Go et Pro était translucide : les chiffres se lisaient au travers. Il est désormais opaque.\\n\\nDans les Rapports, chaque onglet montre un seul échantillon — son premier graphique, ou la première ligne de son tableau — et toutes les autres valeurs sont remplacées par des points. Les onglets restent consultables ; les filtres, la période et l'export ne le sont pas.\\n\\nImpression des documents : accessible sur tous les forfaits, y compris Lite. C'est là que se règle l'imprimante des tickets, et un till Lite imprime des tickets.\\n\\nLe voyant API disparaît quand le forfait ne comprend pas les terminaux réseau : un voyant rouge en permanence pour une fonction non achetée se lit comme une panne.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.5%2B36-installer-2026-09-09_16-14-31.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.5%2B36-installer-2026-09-09_16-14-31.exe",
-      "size_bytes": 56372317
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.6%2B37-installer-2026-09-09_17-20-53.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.6%2B37-installer-2026-09-09_17-20-53.exe",
+      "size_bytes": 56365207
     }
   }
 }
