@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.1.8",
-  "latest_version_name": "3.1.8+39",
+  "latest_version": "3.1.9",
+  "latest_version_name": "3.1.9+40",
   "latest_version_date": "2026-09-09",
-  "latest_release_notes": "Clavier visuel : les flèches déplacent le curseur dans le texte, et une touche appuyée ne fait plus perdre la sélection du champ. Le pavé numérique s'affiche entièrement, sans débordement.\\n\\nGestion : les champs des formulaires ouvrent le clavier ou le pavé dès qu'on les touche.\\n\\nConnexion : les comptes clignotent quand un code est saisi sans avoir choisi l'utilisateur — au moment de l'oubli, plus après coup.",
+  "latest_release_notes": "Écran de connexion : après avoir clignoté pour signaler qu'aucun utilisateur n'est choisi, les comptes retrouvent leur affichage normal — ils restaient estompés et pouvaient passer pour désactivés.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.8%2B39-installer-2026-09-09_18-06-29.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.8%2B39-installer-2026-09-09_18-06-29.exe",
-      "size_bytes": 56369201
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.9%2B40-installer-2026-09-09_18-22-58.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.1.9%2B40-installer-2026-09-09_18-22-58.exe",
+      "size_bytes": 56359741
     }
   }
 }
