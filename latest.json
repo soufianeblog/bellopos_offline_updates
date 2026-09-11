@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.2.0",
-  "latest_version_name": "3.2.0+41",
-  "latest_version_date": "2026-09-09",
-  "latest_release_notes": "Impression des documents retrouve sa place : une entrée à part entière dans les Paramètres, sur tous les forfaits, qui ouvre directement le réglage du ticket et de l'imprimante.\\n\\nVérification des mises à jour : le bouton se désactive pendant la recherche et affiche « Vérification en cours… », au lieu de rester muet le temps de la réponse.",
+  "latest_version": "3.3.0",
+  "latest_version_name": "3.3.0+42",
+  "latest_version_date": "2026-09-11",
+  "latest_release_notes": "Caissiers : ils ne voient plus que leurs propres ventes, et ne peuvent les modifier que pendant un délai réglable (24 h par défaut, Paramètres → Sécurité). Tables et cuisine en lecture seule, tiroir-caisse masqué ; la Gestion et l'Inventaire sont réservés aux administrateurs par défaut, et les rôles système ne sont plus modifiables.\\n\\n17 nouveaux pays (dont Égypte, Espagne, Italie, Allemagne, Royaume-Uni, Émirats, Arabie saoudite, Belgique…) ; « Autre pays » demande le pays et la devise. L'application est aussi disponible en italien et en espagnol.\\n\\nAchats : scannez un article, il entre directement dans le panier. Codes PIN de plus de 4 chiffres à la connexion. Filtres des documents réinitialisables un par un. Pavé numérique redessiné en mode sombre.\\n\\nNouvel écran de connexion au style « Liquid Glass » : champs, touches, avatars et boutons en verre, avec fonds d'écran fournis ou couleur unie.\\n\\nNouvelle barre de navigation en verre, en mode clair et sombre.\\n\\nModification rapide : code-barres, catégorie, suivi du stock et envoi en cuisine directement dans la liste, avec statistiques et filtres comptés. Nouvelle modification rapide des catégories (Gérer → Catégories) : image, nom, description, catégorie parente et produits.\\n\\nNotes rapides pour les ventes et les articles (« Sans oignons », « Bien cuit »…), en français et en arabe, imprimées sur les tickets cuisine, bar et client, et modifiables.\\n\\nPlan des tables : le détail de chaque commande (articles, note, total, payé, client, heure et caissier) et un bouton « Changer de table » ; le plan ne sort plus de l'écran au déplacement.\\n\\nCorrection : la touche Effacer fonctionne de nouveau dans tous les champs.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.2.0%2B41-installer-2026-09-09_18-48-58.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.2.0%2B41-installer-2026-09-09_18-48-58.exe",
-      "size_bytes": 56371613
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.3.0%2B42-installer-2026-09-11_06-38-50.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.3.0%2B42-installer-2026-09-11_06-38-50.exe",
+      "size_bytes": 58819649
     }
   }
 }
