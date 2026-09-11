@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.3.1",
-  "latest_version_name": "3.3.1+43",
+  "latest_version": "3.4.0",
+  "latest_version_name": "3.4.0+44",
   "latest_version_date": "2026-09-11",
-  "latest_release_notes": "Écran de connexion : une grande horloge façon iPadOS, dont les chiffres changent en douceur, un effet de profondeur sur plusieurs fonds d'écran (le paysage passe devant l'heure), un nouveau fond par défaut — Agadir de nuit — et un bouton de connexion plus transparent. Un fond que vous aviez choisi est conservé.\\n\\nProduits épinglés 📌 en tête de la nouvelle vente et du nouvel achat, puis les plus vendus et les plus achetés. Dans le nouvel achat, un clic sur un produit l'ajoute ou le retire.\\n\\nNouveau produit (achat ou vente) : catégorie, suivi du stock et envoi en cuisine. Modification rapide : interrupteurs « Suivi du stock » et « Envoyer en cuisine ». Notes rapides modifiables dans Gérer.\\n\\nParamètres : Interface en deux colonnes, fonds d'écran et couleurs en grille ; Général réorganisé. Gérer : « Nouveau » place le curseur dans le premier champ, et modifier un utilisateur ne demande plus de nouveau code PIN.\\n\\nCorrections : les catégories ne sautent plus à l'ouverture des sous-catégories, supprimer une ligne d'achat retire la bonne ligne, et la barre d'outils de Gérer ne déborde plus.",
+  "latest_release_notes": "Caisse : le fonds de caisse et le comptage de clôture se saisissent maintenant en billets et en pièces — vous tapez combien de coupures de chaque valeur, le total se calcule tout seul. Les coupures proposées sont celles de votre pays (au Maroc : 200, 100, 50, 20 dirhams, puis les pièces) et se modifient dans Paramètres → Général. Taper directement un montant reste possible.\\n\\nLes rapports X et Z affichent le détail des coupures, en plus du total : la caisse se vérifie enfin sans tout recompter.\\n\\nDeux corrections importantes sur le calcul des espèces. Les achats réglés en espèces sont maintenant déduits de la caisse : un magasin qui paie un fournisseur avec l'argent du tiroir tombait juste dans le rouge chaque soir, sans explication. Et un retour de vente est désormais imputé à la journée qui a rendu l'argent, et non plus retiré d'une journée déjà clôturée.\\n\\nÉcran de connexion : la liste des utilisateurs défile et s'adapte à la taille de l'écran — sur un poste à petit écran, les derniers comptes étaient inaccessibles.\\n\\nParamètres : le pays et la devise ne font plus qu'une seule carte, et le thème clair/sombre passe dans la colonne de gauche d'Interface.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.3.1%2B43-installer-2026-09-11_08-25-38.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.3.1%2B43-installer-2026-09-11_08-25-38.exe",
-      "size_bytes": 59650381
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.4.0%2B44-installer-2026-09-11_20-11-01.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.4.0%2B44-installer-2026-09-11_20-11-01.exe",
+      "size_bytes": 59665954
     }
   }
 }
