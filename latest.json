@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.4.1",
-  "latest_version_name": "3.4.1+45",
+  "latest_version": "3.5.0",
+  "latest_version_name": "3.5.0+46",
   "latest_version_date": "2026-09-11",
-  "latest_release_notes": "Caisse : le pavé numérique fait maintenant partie de la fenêtre de comptage — il est toujours là et écrit dans la case que vous venez de toucher, au lieu d'un clavier qui s'ouvrait par-dessus.\\n\\nForfait Lite : les écrans payants se voient enfin avant d'être achetés. La fenêtre Documents des ventes s'ouvre pour de bon, désactivée et sous son cadenas ; Paramètres → Notifications affiche ses cartes au lieu d'un rectangle noir ; et le cadenas de Paramètres → Base de données couvre proprement toute la carte, sans le liseré gris qui ressemblait à un défaut d'affichage.",
+  "latest_release_notes": "Tickets : le type de commande (sur place, à emporter, à livrer) et la société de livraison peuvent maintenant s'imprimer, chacun avec son propre interrupteur dans Paramètres → Impression — un pour le ticket client, un pour les tickets cuisine et bar. Une commande sans livreur n'imprime plus de bloc de livraison vide.\\n\\nNatures de commande : « À emporter » et « À livrer » remplacent « Emporter » et « Livré », qui se confondaient avec le statut de la commande. Une nature que vous avez renommée vous-même est conservée.\\n\\nConnexion : la touche Entrée valide le code PIN, même lorsqu'il a été tapé sur le pavé de l'écran.\\n\\nÉcran de connexion : un nouveau fond — une porte de ville — et un relief affiné sur le fond d'Agadir et celui des arcades, pour que le décor passe devant l'heure sans jamais la masquer.\\n\\nLe bouton d'impression cuisine/bar a été retiré de la nouvelle vente et de la page des ventes : ces tickets s'impriment déjà tout seuls au lancement de la commande.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.4.1%2B45-installer-2026-09-11_20-50-20.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.4.1%2B45-installer-2026-09-11_20-50-20.exe",
-      "size_bytes": 59668461
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.0%2B46-installer-2026-09-11_23-18-27.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.0%2B46-installer-2026-09-11_23-18-27.exe",
+      "size_bytes": 60042110
     }
   }
 }
