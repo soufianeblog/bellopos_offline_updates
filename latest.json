@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.1",
-  "latest_version_name": "3.5.1+47",
+  "latest_version": "3.5.3",
+  "latest_version_name": "3.5.3+49",
   "latest_version_date": "2026-09-12",
-  "latest_release_notes": "Caisse : chaque filtre de la caisse a son bouton de remise à zéro, plus un bouton qui les remet tous. La fenêtre de comptage a été revue — le pavé numérique apparaît sur la case que vous touchez au lieu de rester planté à côté, et la place qu'il occupait affiche le total compté et le détail des coupures. Le bouton « Payé » du pavé est maintenant vert avec une coche, comme celui posé à côté du montant payé : les deux font la même chose.\\n\\nAchats : la fenêtre du type d'achat (réception, commande, retour) montre le choix en cours au lieu de trois lignes identiques. La réception d'une commande affiche, pour chaque ligne, le commandé, le déjà reçu et le reste, avec un bouton « Tout » et un bouton « Rien » — plus besoin de saisir chaque quantité à la main, et une ligne complète ne propose plus rien à recevoir.\\n\\nGérer : la modification rapide des produits, jusque-là dans l'inventaire, rejoint Gérer → Produits, à côté de celle des catégories. Les sections du restaurant (salles, tables, cuisines…) disparaissent dès que le module est désactivé, sans redémarrage, et les publicités suivent le forfait Pro comme partout ailleurs.\\n\\nCorrections de stabilité remontées par les journaux des magasins. L'application ne se ferme plus lorsqu'un produit déjà présent est ajouté une seconde fois à une vente enregistrée, ni en passant des notes rapides à une autre section de Gérer. La calculatrice de la caisse ne plante plus : la touche du total remplace le nombre affiché au lieu de s'y coller, et une division par zéro est sans effet. Une devise personnalisée avec trop de décimales est ramenée à une valeur valable au lieu de bloquer l'affichage des montants.\\n\\nSuivi d'activité : les écrans ouverts et les actions effectuées sont enregistrés partout — journal, rapport d'activité et statistiques — avec l'utilisateur et le poste, pour que le rapport du magasin dise enfin qui a fait quoi et où.",
+  "latest_release_notes": "Écran de connexion : un nouveau fond par défaut, l'arche de Legzira. La falaise, la mer et la plage passent devant l'heure, et le ciel se voit sous l'arche. Les fonds précédents restent proposés dans Paramètres → Interface.\\n\\nL'heure et la date se règlent maintenant au curseur, avec le pourcentage affiché et un bouton pour revenir au réglage d'origine. Par défaut, les chiffres n'ont plus de contour, et la date n'en a jamais.\\n\\nCorrections de langue : « créé le » et « modifié le » au lieu de « créé à », et les messages des fiches s'accordent enfin au mot qu'ils désignent — « Nouvelle catégorie », « Catégorie ajoutée », « Nouvel utilisateur ».",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.1%2B47-installer-2026-09-12_03-58-40.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.1%2B47-installer-2026-09-12_03-58-40.exe",
-      "size_bytes": 60045176
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.3%2B49-installer-2026-09-12_06-13-15.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.3%2B49-installer-2026-09-12_06-13-15.exe",
+      "size_bytes": 61051889
     }
   }
 }
