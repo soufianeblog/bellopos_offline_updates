@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.0",
-  "latest_version_name": "3.5.0+46",
-  "latest_version_date": "2026-09-11",
-  "latest_release_notes": "Tickets : le type de commande (sur place, à emporter, à livrer) et la société de livraison peuvent maintenant s'imprimer, chacun avec son propre interrupteur dans Paramètres → Impression — un pour le ticket client, un pour les tickets cuisine et bar. Une commande sans livreur n'imprime plus de bloc de livraison vide.\\n\\nNatures de commande : « À emporter » et « À livrer » remplacent « Emporter » et « Livré », qui se confondaient avec le statut de la commande. Une nature que vous avez renommée vous-même est conservée.\\n\\nConnexion : la touche Entrée valide le code PIN, même lorsqu'il a été tapé sur le pavé de l'écran.\\n\\nÉcran de connexion : un nouveau fond — une porte de ville — et un relief affiné sur le fond d'Agadir et celui des arcades, pour que le décor passe devant l'heure sans jamais la masquer.\\n\\nLe bouton d'impression cuisine/bar a été retiré de la nouvelle vente et de la page des ventes : ces tickets s'impriment déjà tout seuls au lancement de la commande.",
+  "latest_version": "3.5.1",
+  "latest_version_name": "3.5.1+47",
+  "latest_version_date": "2026-09-12",
+  "latest_release_notes": "Caisse : chaque filtre de la caisse a son bouton de remise à zéro, plus un bouton qui les remet tous. La fenêtre de comptage a été revue — le pavé numérique apparaît sur la case que vous touchez au lieu de rester planté à côté, et la place qu'il occupait affiche le total compté et le détail des coupures. Le bouton « Payé » du pavé est maintenant vert avec une coche, comme celui posé à côté du montant payé : les deux font la même chose.\\n\\nAchats : la fenêtre du type d'achat (réception, commande, retour) montre le choix en cours au lieu de trois lignes identiques. La réception d'une commande affiche, pour chaque ligne, le commandé, le déjà reçu et le reste, avec un bouton « Tout » et un bouton « Rien » — plus besoin de saisir chaque quantité à la main, et une ligne complète ne propose plus rien à recevoir.\\n\\nGérer : la modification rapide des produits, jusque-là dans l'inventaire, rejoint Gérer → Produits, à côté de celle des catégories. Les sections du restaurant (salles, tables, cuisines…) disparaissent dès que le module est désactivé, sans redémarrage, et les publicités suivent le forfait Pro comme partout ailleurs.\\n\\nCorrections de stabilité remontées par les journaux des magasins. L'application ne se ferme plus lorsqu'un produit déjà présent est ajouté une seconde fois à une vente enregistrée, ni en passant des notes rapides à une autre section de Gérer. La calculatrice de la caisse ne plante plus : la touche du total remplace le nombre affiché au lieu de s'y coller, et une division par zéro est sans effet. Une devise personnalisée avec trop de décimales est ramenée à une valeur valable au lieu de bloquer l'affichage des montants.\\n\\nSuivi d'activité : les écrans ouverts et les actions effectuées sont enregistrés partout — journal, rapport d'activité et statistiques — avec l'utilisateur et le poste, pour que le rapport du magasin dise enfin qui a fait quoi et où.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.0%2B46-installer-2026-09-11_23-18-27.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.0%2B46-installer-2026-09-11_23-18-27.exe",
-      "size_bytes": 60042110
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.1%2B47-installer-2026-09-12_03-58-40.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.1%2B47-installer-2026-09-12_03-58-40.exe",
+      "size_bytes": 60045176
     }
   }
 }
