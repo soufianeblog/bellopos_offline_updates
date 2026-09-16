@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.5",
-  "latest_version_name": "3.5.5+51",
+  "latest_version": "3.5.6",
+  "latest_version_name": "3.5.6+52",
   "latest_version_date": "2026-09-16",
-  "latest_release_notes": "Écran d'accueil de configuration : le logo et le bouton « Suivant » restent désormais fixes, et seule la liste des pays défile entre les deux — plus besoin de faire défiler tous les pays pour trouver le bouton.\\n\\nForfait : activer un essai ou un forfait depuis un écran verrouillé (les achats, par exemple) le déverrouille aussitôt, sans changer d'écran. Et pendant l'essai Pro gratuit, un repère « D » apparaît à côté du badge du forfait pour rappeler qu'il s'agit d'une démonstration.",
+  "latest_release_notes": "Données de démonstration adaptées à votre commerce : après avoir choisi la base de démonstration, choisissez votre activité (supermarché, vente en détail, café / restaurant, bar, boulangerie, boucherie, vêtements, cosmétiques, parapharmacie, fournitures scolaires, électronique, électroménager, meuble, pièces auto) : catégories et produits sont créés dans la langue choisie, avec des prix dans votre devise.\\n\\nApplication caissier : une tuile « Tous les produits » dès le premier écran, et des boutons « Payée » / « Non payée » pour régler le montant payé en un geste, à la création comme à la modification d'une vente.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.5%2B51-installer-2026-09-16_21-42-45.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.5%2B51-installer-2026-09-16_21-42-45.exe",
-      "size_bytes": 61082625
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.6%2B52-installer-2026-09-17_00-00-33.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.6%2B52-installer-2026-09-17_00-00-33.exe",
+      "size_bytes": 61107348
     }
   }
 }
