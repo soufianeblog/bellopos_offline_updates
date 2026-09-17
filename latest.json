@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.8",
-  "latest_version_name": "3.5.8+54",
+  "latest_version": "3.5.9",
+  "latest_version_name": "3.5.9+55",
   "latest_version_date": "2026-09-17",
-  "latest_release_notes": "Première installation : trois comptes sont créés au lieu d'un. Votre propre compte administrateur, à votre nom — l'identifiant reprend le nom du propriétaire saisi à l'étape « Votre entreprise » — plus l'administrateur « admin » (code 0000) gardé en secours si vous oubliez votre code, et le compte caissier d'exemple. Les trois sont affichés avant la première connexion et enregistrés dans le fichier déposé sur votre Bureau.\\n\\nForfaits : l'essai Pro gratuit de 14 jours est désormais proposé dès le choix du forfait, et il est recommandé par défaut — tout Pro, tout de suite, sans code ni carte, et la caisse continue ensuite en Lite. Si vous choisissez Go ou Pro sans avoir encore de code d'activation, l'essai vous est proposé sur l'écran d'activation plutôt que de vous laisser sans solution.\\n\\nVotre secteur d'activité n'est plus demandé deux fois : les données de démonstration utilisent directement celui indiqué à l'étape « Votre entreprise », affiché sur la carte avec un bouton « Changer » si vous avez changé d'avis.\\n\\nImpression sans imprimante (Windows) : quand aucune imprimante n'est branchée, le ticket ou le document est enregistré sous un nom généré automatiquement et ouvert directement, au lieu de la fenêtre « Enregistrer l'impression sous » de Windows. « Microsoft Impression en PDF » n'est plus prise pour une vraie imprimante.",
+  "latest_release_notes": "Clavier à l'écran pendant l'installation : il ne s'ouvre plus tout seul quand vous touchez un champ et vient recouvrir le formulaire. Chaque champ des écrans de configuration porte une petite icône de clavier : cliquez-la pour l'ouvrir quand la caisse n'a pas de clavier physique. La saisie au clavier de l'ordinateur fonctionne comme avant, sur tous les écrans — y compris celui de l'activation, qui suit désormais la même règle que les autres.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.8%2B54-installer-2026-09-17_07-57-31.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.8%2B54-installer-2026-09-17_07-57-31.exe",
-      "size_bytes": 61621363
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.9%2B55-installer-2026-09-17_08-27-52.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.9%2B55-installer-2026-09-17_08-27-52.exe",
+      "size_bytes": 61619319
     }
   }
 }
