@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.7",
-  "latest_version_name": "3.5.7+53",
+  "latest_version": "3.5.8",
+  "latest_version_name": "3.5.8+54",
   "latest_version_date": "2026-09-17",
-  "latest_release_notes": "Nouvelle étape « Votre entreprise » à la première installation, juste après la langue et le pays : nom de l'entreprise, nom du propriétaire, téléphone, e-mail, taille de l'entreprise et secteur d'activité. Ces informations remplissent directement la fiche du magasin (tickets et factures) et se modifient dans Paramètres → Magasin.\\n\\nDonnées de démonstration : un choix « Autre activité » (catalogue de base), votre secteur est proposé en premier, et les fournisseurs, marques, salles, tables et statuts sont désormais traduits dans la langue choisie.\\n\\nNeuf nouvelles langues pour l'application : allemand, néerlandais, portugais, turc, indonésien, malais, swahili, persan et ourdou (persan et ourdou de droite à gauche). Elles sont proposées à l'installation, dans Paramètres → Interface, dans l'interface rapide, pour les tickets et les documents, et le clavier virtuel s'adapte à chacune.",
+  "latest_release_notes": "Première installation : trois comptes sont créés au lieu d'un. Votre propre compte administrateur, à votre nom — l'identifiant reprend le nom du propriétaire saisi à l'étape « Votre entreprise » — plus l'administrateur « admin » (code 0000) gardé en secours si vous oubliez votre code, et le compte caissier d'exemple. Les trois sont affichés avant la première connexion et enregistrés dans le fichier déposé sur votre Bureau.\\n\\nForfaits : l'essai Pro gratuit de 14 jours est désormais proposé dès le choix du forfait, et il est recommandé par défaut — tout Pro, tout de suite, sans code ni carte, et la caisse continue ensuite en Lite. Si vous choisissez Go ou Pro sans avoir encore de code d'activation, l'essai vous est proposé sur l'écran d'activation plutôt que de vous laisser sans solution.\\n\\nVotre secteur d'activité n'est plus demandé deux fois : les données de démonstration utilisent directement celui indiqué à l'étape « Votre entreprise », affiché sur la carte avec un bouton « Changer » si vous avez changé d'avis.\\n\\nImpression sans imprimante (Windows) : quand aucune imprimante n'est branchée, le ticket ou le document est enregistré sous un nom généré automatiquement et ouvert directement, au lieu de la fenêtre « Enregistrer l'impression sous » de Windows. « Microsoft Impression en PDF » n'est plus prise pour une vraie imprimante.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.7%2B53-installer-2026-09-17_05-38-52.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.7%2B53-installer-2026-09-17_05-38-52.exe",
-      "size_bytes": 61611642
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.8%2B54-installer-2026-09-17_07-57-31.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.8%2B54-installer-2026-09-17_07-57-31.exe",
+      "size_bytes": 61621363
     }
   }
 }
