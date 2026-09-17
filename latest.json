@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.6",
-  "latest_version_name": "3.5.6+52",
-  "latest_version_date": "2026-09-16",
-  "latest_release_notes": "Données de démonstration adaptées à votre commerce : après avoir choisi la base de démonstration, choisissez votre activité (supermarché, vente en détail, café / restaurant, bar, boulangerie, boucherie, vêtements, cosmétiques, parapharmacie, fournitures scolaires, électronique, électroménager, meuble, pièces auto) : catégories et produits sont créés dans la langue choisie, avec des prix dans votre devise.\\n\\nApplication caissier : une tuile « Tous les produits » dès le premier écran, et des boutons « Payée » / « Non payée » pour régler le montant payé en un geste, à la création comme à la modification d'une vente.",
+  "latest_version": "3.5.7",
+  "latest_version_name": "3.5.7+53",
+  "latest_version_date": "2026-09-17",
+  "latest_release_notes": "Nouvelle étape « Votre entreprise » à la première installation, juste après la langue et le pays : nom de l'entreprise, nom du propriétaire, téléphone, e-mail, taille de l'entreprise et secteur d'activité. Ces informations remplissent directement la fiche du magasin (tickets et factures) et se modifient dans Paramètres → Magasin.\\n\\nDonnées de démonstration : un choix « Autre activité » (catalogue de base), votre secteur est proposé en premier, et les fournisseurs, marques, salles, tables et statuts sont désormais traduits dans la langue choisie.\\n\\nNeuf nouvelles langues pour l'application : allemand, néerlandais, portugais, turc, indonésien, malais, swahili, persan et ourdou (persan et ourdou de droite à gauche). Elles sont proposées à l'installation, dans Paramètres → Interface, dans l'interface rapide, pour les tickets et les documents, et le clavier virtuel s'adapte à chacune.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.6%2B52-installer-2026-09-17_00-00-33.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.6%2B52-installer-2026-09-17_00-00-33.exe",
-      "size_bytes": 61107348
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.7%2B53-installer-2026-09-17_05-38-52.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.7%2B53-installer-2026-09-17_05-38-52.exe",
+      "size_bytes": 61611642
     }
   }
 }
