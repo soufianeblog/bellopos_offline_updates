@@ -1,13 +1,13 @@
 {
-  "latest_version": "3.5.11",
-  "latest_version_name": "3.5.11+57",
-  "latest_version_date": "2026-09-18",
-  "latest_release_notes": "• Le badge de l'essai gratuit affiche « Essai » (et non plus « Démo »), correctement traduit dans toutes les langues.\n• Notes de version plus courtes et bien mises en forme.",
+  "latest_version": "3.5.12",
+  "latest_version_name": "3.5.12+58",
+  "latest_version_date": "2026-09-19",
+  "latest_release_notes": "• Un logo illisible n'empêche plus l'impression des tickets ; les images sont vérifiées à l'ajout.\n• Poste secondaire : le bouton de validation ne crée plus de doublons et signale une vente non enregistrée.\n• Un échec d'impression est désormais affiché.\n• Import CSV : un fichier qui ne correspond pas à la table est refusé.\n• Corrections de connexion entre postes.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.11%2B57-installer-2026-09-18_21-16-08.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.11%2B57-installer-2026-09-18_21-16-08.exe",
-      "size_bytes": 62021822
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.12%2B58-installer-2026-09-19_06-52-57.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.5.12%2B58-installer-2026-09-19_06-52-57.exe",
+      "size_bytes": 62069120
     }
   }
 }
