@@ -1,11 +1,28 @@
 {
-  "_help": "Login-screen banner for Lite and the free trial. enabled:false hides it everywhere. Each item: id, url ({lang} = viewer's language), optional enabled:false, optional text {lang: sentence}. Ids bellopos/market/bellosend already have translations in every app language; text you add overrides them for that language. A new id needs at least an 'en' text. show_on_trial:false hides it during the trial. rotate_seconds = how long each slogan stays after it flashes, before the next slides in. Tills re-read this file every 3 hours.",
+  "_help": "Login-screen banner for Lite and the free trial. enabled:false hides it everywhere. Each item: id, url ({lang} = viewer's language), optional enabled:false, optional text {lang: sentence}. Ids bellopos/market/bellosend/pro already have translations in every app language; text you add overrides them for that language. A new id needs at least an 'en' text. show_on_trial:false hides it during the trial. rotate_seconds = how long each slogan stays after it flashes, before the next slides in. Tills re-read this file every 3 hours.",
   "enabled": true,
   "rotate_seconds": 6,
   "show_on_trial": true,
   "items": [
-    {"id": "bellopos", "enabled": true, "url": "https://bellopos.app/{lang}/"},
-    {"id": "market", "enabled": true, "url": "https://bellopos.app/{lang}/"},
-    {"id": "bellosend", "enabled": true, "url": "https://bellosend.net"}
+    {
+      "id": "bellopos",
+      "enabled": true,
+      "url": "https://bellopos.app/{lang}/"
+    },
+    {
+      "id": "market",
+      "enabled": true,
+      "url": "https://bellopos.app/{lang}/"
+    },
+    {
+      "id": "bellosend",
+      "enabled": true,
+      "url": "https://bellosend.net"
+    },
+    {
+      "id": "pro",
+      "enabled": true,
+      "url": "https://wa.me/15055283844"
+    }
   ]
 }
