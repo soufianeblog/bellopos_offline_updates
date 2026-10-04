@@ -12,6 +12,17 @@
       "version": "3.6.13",
       "version_name": "3.6.13+77",
       "date": "2026-10-04"
+    },
+    "macos": {
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.13%2B77.zip",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.13%2B77.zip",
+      "dmg": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.13%2B77.dmg",
+      "size_bytes": 71534560,
+      "dmg_size_bytes": 71495025,
+      "sha256": "3bb71744ae6d6e3ccfa3ea77f664a91c8d622ec4345558fc84221b52b4574323",
+      "version": "3.6.13",
+      "version_name": "3.6.13+77",
+      "date": "2026-10-04"
     }
   }
 }
