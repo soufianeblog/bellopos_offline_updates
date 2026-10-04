@@ -1,5 +1,5 @@
 {
-  "_help": "Login-screen ad bar for Lite and the free trial. enabled:false (or \"false\"/0/\"off\") hides the whole bar. Each item: id, url ({lang} = viewer's language), optional enabled:false, optional text {lang: sentence}. Ids bellopos/market/bellosend/pro already have translations in every app language; text you add overrides them for that language. A new id needs at least an 'en' text. Fonts (3.6.13+): font = one of Jost, Anton, Bebas Neue, Archivo Black, Bangers, Permanent Marker, Oswald, Montserrat, Outfit, Inter, Manrope, Urbanist, Sora, Lexend, Plus Jakarta Sans, DM Sans, Space Grotesk, Raleway, Quicksand, Rubik, Work Sans, Figtree, Comfortaa, Red Hat Display, Nunito (default Jost = the OBEY look); italic true/false (default true); weight 100-900 (default 600); font_url = an https link to a .ttf/.otf for any other font (downloaded once). show_on_trial:false hides it during the trial. rotate_seconds = how long each slogan stays after it flashes. Tills re-read this file every 3 hours.",
+  "_help": "Ads for Lite and the free trial. Top-level enabled/rotate_seconds/show_on_trial/items are read ONLY by 3.6.10-3.6.12 (they carry their own translations; keep them). 3.6.13+ reads lock_screen and customer_screen only, and nothing is built into the app: every word lives here. Languages: en, fr, ar, de, pt, es, nl, it, ru; any other app language shows 'en' (en is required). enabled:false (or \"false\"/0/\"off\"/\"no\") turns a section or an item off. lock_screen: rotate_seconds; show_on_trial; animation {transition slide|fade, slide_speed px/s, read_speed px/s, blink {enabled, times 0-6, duration_ms}}; items [{id, url ({lang} = viewer language), text {lang: sentence}, font, italic, weight 100-900, font_url}]. customer_screen (the second screen, for Lite tills that have no ads of their own): slide_seconds; transition fade|slide|zoom; show_on_trial (default false); items [{id, layout image|text|image_text, image (https .jpg/.png, cached privately), text {lang: title}, subtitle {lang: line}, background [\"#hex\", \"#hex\"], text_color, font, italic, weight, animation kenburns|zoom|fade|slide_up, seconds}]. Fonts: Jost, Anton, Bebas Neue, Archivo Black, Bangers, Permanent Marker, Oswald, Montserrat, Outfit, Inter, Manrope, Urbanist, Sora, Lexend, Plus Jakarta Sans, DM Sans, Space Grotesk, Raleway, Quicksand, Rubik, Work Sans, Figtree, Comfortaa, Red Hat Display, Nunito. Tills check this file every 10 minutes and switch as soon as it changes.",
   "enabled": true,
   "rotate_seconds": 6,
   "show_on_trial": true,
@@ -36,5 +36,279 @@
       "italic": true,
       "weight": 700
     }
-  ]
+  ],
+  "lock_screen": {
+    "enabled": true,
+    "rotate_seconds": 6,
+    "show_on_trial": true,
+    "animation": {
+      "transition": "slide",
+      "slide_speed": 170,
+      "read_speed": 60,
+      "blink": {
+        "enabled": true,
+        "times": 2,
+        "duration_ms": 1000
+      }
+    },
+    "items": [
+      {
+        "id": "bellopos",
+        "enabled": true,
+        "url": "https://bellopos.app/{lang}/",
+        "font": "Jost",
+        "italic": true,
+        "weight": 600,
+        "text": {
+          "en": "BelloPOS — the best free AI-powered point of sale. Discover it at bellopos.app",
+          "fr": "BelloPOS — la meilleure caisse gratuite propulsée par l'IA. Découvrez-la sur bellopos.app",
+          "ar": "BelloPOS — أفضل نقطة بيع مجانية مدعومة بالذكاء الاصطناعي. اكتشفها على bellopos.app",
+          "de": "BelloPOS — die beste kostenlose KI-gestützte Kasse. Entdecken Sie sie auf bellopos.app",
+          "pt": "BelloPOS — o melhor ponto de venda gratuito com IA. Descubra em bellopos.app",
+          "es": "BelloPOS — el mejor punto de venta gratuito con IA. Descúbrelo en bellopos.app",
+          "nl": "BelloPOS — het beste gratis kassasysteem met AI. Ontdek het op bellopos.app",
+          "it": "BelloPOS — il miglior punto cassa gratuito con IA. Scoprilo su bellopos.app",
+          "ru": "BelloPOS — лучшая бесплатная касса с ИИ. Узнайте больше на bellopos.app"
+        }
+      },
+      {
+        "id": "market",
+        "enabled": true,
+        "url": "https://bellopos.app/{lang}/",
+        "font": "Jost",
+        "italic": true,
+        "weight": 600,
+        "text": {
+          "en": "BelloPOS: the smartest point of sale on the market — fast, simple and complete.",
+          "fr": "BelloPOS : la caisse la plus intelligente du marché — rapide, simple et complète.",
+          "ar": "BelloPOS: أذكى نقطة بيع في السوق — سريعة وبسيطة ومتكاملة.",
+          "de": "BelloPOS: die intelligenteste Kasse auf dem Markt — schnell, einfach und vollständig.",
+          "pt": "BelloPOS: o ponto de venda mais inteligente do mercado — rápido, simples e completo.",
+          "es": "BelloPOS: el punto de venta más inteligente del mercado — rápido, sencillo y completo.",
+          "nl": "BelloPOS: het slimste kassasysteem op de markt — snel, eenvoudig en compleet.",
+          "it": "BelloPOS: il punto cassa più intelligente sul mercato — veloce, semplice e completo.",
+          "ru": "BelloPOS: самая умная касса на рынке — быстрая, простая и полная."
+        }
+      },
+      {
+        "id": "bellosend",
+        "enabled": true,
+        "url": "https://bellosend.net",
+        "font": "Jost",
+        "italic": true,
+        "weight": 600,
+        "text": {
+          "en": "Need a professional CRM? Discover BelloSend at bellosend.net",
+          "fr": "Besoin d'un CRM professionnel ? Découvrez BelloSend sur bellosend.net",
+          "ar": "هل تحتاج إلى نظام CRM احترافي؟ اكتشف BelloSend على bellosend.net",
+          "de": "Brauchen Sie ein professionelles CRM? Entdecken Sie BelloSend auf bellosend.net",
+          "pt": "Precisa de um CRM profissional? Descubra o BelloSend em bellosend.net",
+          "es": "¿Necesitas un CRM profesional? Descubre BelloSend en bellosend.net",
+          "nl": "Een professioneel CRM nodig? Ontdek BelloSend op bellosend.net",
+          "it": "Ti serve un CRM professionale? Scopri BelloSend su bellosend.net",
+          "ru": "Нужна профессиональная CRM? Откройте для себя BelloSend на bellosend.net"
+        }
+      },
+      {
+        "id": "pro",
+        "enabled": true,
+        "url": "https://wa.me/15055283844",
+        "font": "Jost",
+        "italic": true,
+        "weight": 700,
+        "text": {
+          "en": "Remove this ad bar with BelloPOS PRO — message us on WhatsApp: +1 505 528 3844",
+          "fr": "Supprimez cette barre de publicité avec BelloPOS PRO — écrivez-nous sur WhatsApp : +1 505 528 3844",
+          "ar": "تخلّص من شريط الإعلانات هذا مع BelloPOS PRO — راسلنا على واتساب: +1 505 528 3844",
+          "de": "Entfernen Sie diese Werbeleiste mit BelloPOS PRO — schreiben Sie uns auf WhatsApp: +1 505 528 3844",
+          "pt": "Remova esta barra de anúncios com o BelloPOS PRO — fale connosco no WhatsApp: +1 505 528 3844",
+          "es": "Quita esta barra de anuncios con BelloPOS PRO — escríbenos por WhatsApp: +1 505 528 3844",
+          "nl": "Verwijder deze advertentiebalk met BelloPOS PRO — stuur ons een WhatsApp: +1 505 528 3844",
+          "it": "Elimina questa barra pubblicitaria con BelloPOS PRO — scrivici su WhatsApp: +1 505 528 3844",
+          "ru": "Уберите эту рекламную полосу с BelloPOS PRO — напишите нам в WhatsApp: +1 505 528 3844"
+        }
+      }
+    ]
+  },
+  "customer_screen": {
+    "enabled": true,
+    "slide_seconds": 8,
+    "transition": "fade",
+    "show_on_trial": false,
+    "items": [
+      {
+        "id": "bellopos_ai",
+        "layout": "image_text",
+        "image": "https://raw.githubusercontent.com/soufianeblog/bellopos_offline_updates/main/ads/bellopos_ai.jpg",
+        "text": {
+          "en": "The free AI point of sale",
+          "fr": "La caisse gratuite avec l'IA",
+          "ar": "نقطة البيع المجانية بالذكاء الاصطناعي",
+          "de": "Die kostenlose KI-Kasse",
+          "pt": "O ponto de venda gratuito com IA",
+          "es": "El punto de venta gratuito con IA",
+          "nl": "Het gratis kassasysteem met AI",
+          "it": "Il punto cassa gratuito con IA",
+          "ru": "Бесплатная касса с ИИ"
+        },
+        "subtitle": {
+          "en": "Sales, stock and reports — bellopos.app",
+          "fr": "Ventes, stock et rapports — bellopos.app",
+          "ar": "المبيعات والمخزون والتقارير — bellopos.app",
+          "de": "Verkauf, Lager und Berichte — bellopos.app",
+          "pt": "Vendas, stock e relatórios — bellopos.app",
+          "es": "Ventas, stock e informes — bellopos.app",
+          "nl": "Verkoop, voorraad en rapporten — bellopos.app",
+          "it": "Vendite, magazzino e report — bellopos.app",
+          "ru": "Продажи, склад и отчёты — bellopos.app"
+        },
+        "background": [
+          "#0B1F3A",
+          "#2E72D2"
+        ],
+        "font": "Montserrat",
+        "weight": 800,
+        "animation": "kenburns"
+      },
+      {
+        "id": "bellopos_offline",
+        "layout": "image_text",
+        "image": "https://raw.githubusercontent.com/soufianeblog/bellopos_offline_updates/main/ads/bellopos_offline.jpg",
+        "text": {
+          "en": "Works even without internet",
+          "fr": "Fonctionne même sans internet",
+          "ar": "يعمل حتى بدون إنترنت",
+          "de": "Funktioniert auch ohne Internet",
+          "pt": "Funciona mesmo sem internet",
+          "es": "Funciona incluso sin internet",
+          "nl": "Werkt zelfs zonder internet",
+          "it": "Funziona anche senza internet",
+          "ru": "Работает даже без интернета"
+        },
+        "subtitle": {
+          "en": "Your shop never stops — bellopos.app",
+          "fr": "Votre commerce ne s'arrête jamais — bellopos.app",
+          "ar": "متجرك لا يتوقف أبدًا — bellopos.app",
+          "de": "Ihr Geschäft steht nie still — bellopos.app",
+          "pt": "A sua loja nunca para — bellopos.app",
+          "es": "Tu tienda nunca se detiene — bellopos.app",
+          "nl": "Uw winkel staat nooit stil — bellopos.app",
+          "it": "Il tuo negozio non si ferma mai — bellopos.app",
+          "ru": "Ваш магазин никогда не останавливается — bellopos.app"
+        },
+        "background": [
+          "#0B3A2A",
+          "#1E9E6A"
+        ],
+        "font": "Montserrat",
+        "weight": 800,
+        "animation": "zoom"
+      },
+      {
+        "id": "market",
+        "layout": "text",
+        "text": {
+          "en": "The smartest point of sale on the market",
+          "fr": "La caisse la plus intelligente du marché",
+          "ar": "أذكى نقطة بيع في السوق",
+          "de": "Die intelligenteste Kasse auf dem Markt",
+          "pt": "O ponto de venda mais inteligente do mercado",
+          "es": "El punto de venta más inteligente del mercado",
+          "nl": "Het slimste kassasysteem op de markt",
+          "it": "Il punto cassa più intelligente sul mercato",
+          "ru": "Самая умная касса на рынке"
+        },
+        "subtitle": {
+          "en": "Fast, simple and complete",
+          "fr": "Rapide, simple et complète",
+          "ar": "سريعة وبسيطة ومتكاملة",
+          "de": "Schnell, einfach und vollständig",
+          "pt": "Rápido, simples e completo",
+          "es": "Rápido, sencillo y completo",
+          "nl": "Snel, eenvoudig en compleet",
+          "it": "Veloce, semplice e completo",
+          "ru": "Быстрая, простая и полная"
+        },
+        "background": [
+          "#0E1A2B",
+          "#1E4A8A"
+        ],
+        "font": "Jost",
+        "italic": true,
+        "weight": 800,
+        "animation": "slide_up",
+        "seconds": 6
+      },
+      {
+        "id": "bellosend",
+        "layout": "image_text",
+        "image": "https://raw.githubusercontent.com/soufianeblog/bellopos_offline_updates/main/ads/bellosend_crm.jpg",
+        "text": {
+          "en": "BelloSend — the professional CRM",
+          "fr": "BelloSend — le CRM professionnel",
+          "ar": "BelloSend — نظام CRM الاحترافي",
+          "de": "BelloSend — das professionelle CRM",
+          "pt": "BelloSend — o CRM profissional",
+          "es": "BelloSend — el CRM profesional",
+          "nl": "BelloSend — het professionele CRM",
+          "it": "BelloSend — il CRM professionale",
+          "ru": "BelloSend — профессиональная CRM"
+        },
+        "subtitle": {
+          "en": "Talk to your customers on WhatsApp — bellosend.net",
+          "fr": "Parlez à vos clients sur WhatsApp — bellosend.net",
+          "ar": "تواصل مع عملائك على واتساب — bellosend.net",
+          "de": "Sprechen Sie mit Ihren Kunden auf WhatsApp — bellosend.net",
+          "pt": "Fale com os seus clientes no WhatsApp — bellosend.net",
+          "es": "Habla con tus clientes por WhatsApp — bellosend.net",
+          "nl": "Praat met uw klanten via WhatsApp — bellosend.net",
+          "it": "Parla con i tuoi clienti su WhatsApp — bellosend.net",
+          "ru": "Общайтесь с клиентами в WhatsApp — bellosend.net"
+        },
+        "background": [
+          "#2A1450",
+          "#7B3FE4"
+        ],
+        "font": "Montserrat",
+        "weight": 800,
+        "animation": "kenburns"
+      },
+      {
+        "id": "pro",
+        "layout": "image_text",
+        "text": {
+          "en": "Your own ads here with BelloPOS PRO",
+          "fr": "Vos propres publicités ici avec BelloPOS PRO",
+          "ar": "إعلاناتك الخاصة هنا مع BelloPOS PRO",
+          "de": "Ihre eigene Werbung hier mit BelloPOS PRO",
+          "pt": "Os seus próprios anúncios aqui com o BelloPOS PRO",
+          "es": "Tus propios anuncios aquí con BelloPOS PRO",
+          "nl": "Uw eigen advertenties hier met BelloPOS PRO",
+          "it": "I tuoi annunci qui con BelloPOS PRO",
+          "ru": "Ваша реклама здесь с BelloPOS PRO"
+        },
+        "subtitle": {
+          "en": "WhatsApp +1 505 528 3844",
+          "fr": "WhatsApp +1 505 528 3844",
+          "ar": "واتساب +1 505 528 3844",
+          "de": "WhatsApp +1 505 528 3844",
+          "pt": "WhatsApp +1 505 528 3844",
+          "es": "WhatsApp +1 505 528 3844",
+          "nl": "WhatsApp +1 505 528 3844",
+          "it": "WhatsApp +1 505 528 3844",
+          "ru": "WhatsApp +1 505 528 3844"
+        },
+        "background": [
+          "#14110A",
+          "#8A6A1E"
+        ],
+        "text_color": "#FFE9B0",
+        "font": "Jost",
+        "italic": true,
+        "weight": 700,
+        "animation": "kenburns",
+        "image": "https://raw.githubusercontent.com/soufianeblog/bellopos_offline_updates/main/ads/bellopos_pro.jpg"
+      }
+    ]
+  }
 }
