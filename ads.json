@@ -1,5 +1,5 @@
 {
-  "_help": "Login-screen banner for Lite and the free trial. enabled:false hides it everywhere. Each item: id, url ({lang} = viewer's language), optional enabled:false, optional text {lang: sentence}. Ids bellopos/market/bellosend/pro already have translations in every app language; text you add overrides them for that language. A new id needs at least an 'en' text. show_on_trial:false hides it during the trial. rotate_seconds = how long each slogan stays after it flashes, before the next slides in. Tills re-read this file every 3 hours.",
+  "_help": "Login-screen ad bar for Lite and the free trial. enabled:false (or \"false\"/0/\"off\") hides the whole bar. Each item: id, url ({lang} = viewer's language), optional enabled:false, optional text {lang: sentence}. Ids bellopos/market/bellosend/pro already have translations in every app language; text you add overrides them for that language. A new id needs at least an 'en' text. Fonts (3.6.13+): font = one of Jost, Anton, Bebas Neue, Archivo Black, Bangers, Permanent Marker, Oswald, Montserrat, Outfit, Inter, Manrope, Urbanist, Sora, Lexend, Plus Jakarta Sans, DM Sans, Space Grotesk, Raleway, Quicksand, Rubik, Work Sans, Figtree, Comfortaa, Red Hat Display, Nunito (default Jost = the OBEY look); italic true/false (default true); weight 100-900 (default 600); font_url = an https link to a .ttf/.otf for any other font (downloaded once). show_on_trial:false hides it during the trial. rotate_seconds = how long each slogan stays after it flashes. Tills re-read this file every 3 hours.",
   "enabled": true,
   "rotate_seconds": 6,
   "show_on_trial": true,
@@ -7,22 +7,34 @@
     {
       "id": "bellopos",
       "enabled": true,
-      "url": "https://bellopos.app/{lang}/"
+      "url": "https://bellopos.app/{lang}/",
+      "font": "Jost",
+      "italic": true,
+      "weight": 600
     },
     {
       "id": "market",
       "enabled": true,
-      "url": "https://bellopos.app/{lang}/"
+      "url": "https://bellopos.app/{lang}/",
+      "font": "Jost",
+      "italic": true,
+      "weight": 600
     },
     {
       "id": "bellosend",
       "enabled": true,
-      "url": "https://bellosend.net"
+      "url": "https://bellosend.net",
+      "font": "Jost",
+      "italic": true,
+      "weight": 600
     },
     {
       "id": "pro",
       "enabled": true,
-      "url": "https://wa.me/15055283844"
+      "url": "https://wa.me/15055283844",
+      "font": "Jost",
+      "italic": true,
+      "weight": 700
     }
   ]
 }
