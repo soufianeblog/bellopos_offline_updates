@@ -134,7 +134,7 @@
     "enabled": true,
     "slide_seconds": 8,
     "transition": "fade",
-    "show_on_trial": false,
+    "show_on_trial": true,
     "items": [
       {
         "id": "bellopos_ai",
