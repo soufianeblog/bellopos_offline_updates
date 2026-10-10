@@ -1,17 +1,17 @@
 {
-  "latest_version": "3.6.22",
-  "latest_version_name": "3.6.22+86",
-  "latest_version_date": "2026-10-08",
-  "latest_release_notes": "• Corrections de bugs et améliorations des performances.",
+  "latest_version": "3.6.23",
+  "latest_version_name": "3.6.23+87",
+  "latest_version_date": "2026-10-10",
+  "latest_release_notes": "• Correction du scanner : un article scanné s'ajoute une seule fois.\n• Pourboires : vous choisissez qui les garde et les montants proposés.\n• L'assistant gère tout le catalogue : champs produits, marques, fournisseurs, achats.\n• « Plus tard » sur une mise à jour est respecté pendant 3 jours.\n• Essai gratuit accessible depuis Paramètres → Forfait.\n• Clavier numérique, logo en arabe et stock initial : corrections d'affichage.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.22%2B86-installer-2026-10-08_18-06-55.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.22%2B86-installer-2026-10-08_18-06-55.exe",
-      "size_bytes": 70216139,
-      "sha256": "217f09cb897de3d8808e1ccb47fb62a193c05e12f0fa56cc58280d92d3fae447",
-      "version": "3.6.22",
-      "version_name": "3.6.22+86",
-      "date": "2026-10-08"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.23%2B87-installer-2026-10-10_02-27-05.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.23%2B87-installer-2026-10-10_02-27-05.exe",
+      "size_bytes": 70236823,
+      "sha256": "8699c88719c1df4e8eb9a6bd95692bb66ac06f7dc53c301971abd3c95e0375e4",
+      "version": "3.6.23",
+      "version_name": "3.6.23+87",
+      "date": "2026-10-10"
     },
     "macos": {
       "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.22%2B86.zip",
