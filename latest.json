@@ -2,7 +2,7 @@
   "latest_version": "3.6.23",
   "latest_version_name": "3.6.23+87",
   "latest_version_date": "2026-10-10",
-  "latest_release_notes": "• Correction du scanner : un article scanné s'ajoute une seule fois.\n• Pourboires : vous choisissez qui les garde et les montants proposés.\n• L'assistant gère tout le catalogue : champs produits, marques, fournisseurs, achats.\n• « Plus tard » sur une mise à jour est respecté pendant 3 jours.\n• Essai gratuit accessible depuis Paramètres → Forfait.\n• Clavier numérique, logo en arabe et stock initial : corrections d'affichage.",
+  "latest_release_notes": "• Corrections de bugs et améliorations des performances.",
   "platforms": {
     "windows": {
       "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.23%2B87-installer-2026-10-10_02-27-05.exe",
