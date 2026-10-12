@@ -1,6 +1,6 @@
 {
   "_help": "Ads for Lite and the free trial. Top-level enabled/rotate_seconds/show_on_trial/items are read ONLY by 3.6.10-3.6.12 (they carry their own translations; keep them). 3.6.13+ reads lock_screen and customer_screen only, and nothing is built into the app: every word lives here. Languages: en, fr, ar, de, pt, es, nl, it, ru; any other app language shows 'en' (en is required). enabled:false (or \"false\"/0/\"off\"/\"no\") turns a section or an item off. lock_screen: rotate_seconds; show_on_trial; animation {transition slide|fade, slide_speed px/s, read_speed px/s, blink {enabled, times 0-6, duration_ms}}; items [{id, url ({lang} = viewer language), text {lang: sentence}, font, italic, weight 100-900, font_url}]. customer_screen (the second screen, for Lite tills that have no ads of their own): slide_seconds; transition fade|slide|zoom; show_on_trial (default false); items [{id, layout image|text|image_text, image (https .jpg/.png, cached privately), text {lang: title}, subtitle {lang: line}, background [\"#hex\", \"#hex\"], text_color, font, italic, weight, animation kenburns|zoom|fade|slide_up, seconds}]. Fonts: Jost, Anton, Bebas Neue, Archivo Black, Bangers, Permanent Marker, Oswald, Montserrat, Outfit, Inter, Manrope, Urbanist, Sora, Lexend, Plus Jakarta Sans, DM Sans, Space Grotesk, Raleway, Quicksand, Rubik, Work Sans, Figtree, Comfortaa, Red Hat Display, Nunito. Tills check this file every 10 minutes and switch as soon as it changes.",
-  "enabled": true,
+  "enabled": false,
   "rotate_seconds": 6,
   "show_on_trial": true,
   "items": [
@@ -38,7 +38,7 @@
     }
   ],
   "lock_screen": {
-    "enabled": true,
+    "enabled": false,
     "rotate_seconds": 6,
     "show_on_trial": true,
     "animation": {
