@@ -1,16 +1,16 @@
 {
-  "latest_version": "3.6.25",
-  "latest_version_name": "3.6.25+89",
+  "latest_version": "3.6.26",
+  "latest_version_name": "3.6.26+90",
   "latest_version_date": "2026-10-13",
   "latest_release_notes": "• Corrections de bugs et améliorations des performances.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.25%2B89-installer-2026-10-13_15-52-47.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.25%2B89-installer-2026-10-13_15-52-47.exe",
-      "size_bytes": 70561088,
-      "sha256": "9df361c1f5501aa9feb27e9a5c42fe72ff60f56e32f08a539159c7cfb8d36777",
-      "version": "3.6.25",
-      "version_name": "3.6.25+89",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.26%2B90-installer-2026-10-13_22-09-51.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.26%2B90-installer-2026-10-13_22-09-51.exe",
+      "size_bytes": 70556059,
+      "sha256": "85145403e70235ee5b5cd802b526b7a2b4a86e9595c7a3949d45d23d4234eda0",
+      "version": "3.6.26",
+      "version_name": "3.6.26+90",
       "date": "2026-10-13"
     },
     "macos": {
