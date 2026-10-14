@@ -25,34 +25,34 @@
       "date": "2026-10-14"
     },
     "android": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-arm64-v8a.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-arm64-v8a.apk",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-arm64-v8a.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-arm64-v8a.apk",
       "size_bytes": 70865502,
-      "sha256": "8fc3fc6b5e708ed820365424a60792e1aecb7ab72ddc29340107d8abdd3db874",
+      "sha256": "b5d9331f44d2c0f06e6183e590037424769bf9780a4af6488a68585e8d0e55a0",
       "abi": "arm64-v8a",
-      "version": "3.6.27",
-      "version_name": "3.6.27+91",
-      "date": "2026-10-13"
+      "version": "3.6.28",
+      "version_name": "3.6.28+92",
+      "date": "2026-10-14"
     },
     "android_armv7": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-armeabi-v7a.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-armeabi-v7a.apk",
-      "size_bytes": 70318640,
-      "sha256": "41542c62aa7d3034749c5347a189c76d38760ed9b3784f4703e2f9012ebdc723",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-armeabi-v7a.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-armeabi-v7a.apk",
+      "size_bytes": 70335024,
+      "sha256": "c394d0380e3f31e76cb403c8747d9b759ff998b5cfba960796b6a8abf6b67d3b",
       "abi": "armeabi-v7a",
-      "version": "3.6.27",
-      "version_name": "3.6.27+91",
-      "date": "2026-10-13"
+      "version": "3.6.28",
+      "version_name": "3.6.28+92",
+      "date": "2026-10-14"
     },
     "android_x64": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-x86_64.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.27%2B91-x86_64.apk",
-      "size_bytes": 76204065,
-      "sha256": "a2097f39e37eb0f8b13b0bf9d7302f0ba60b8c12384c484eb927d8c05db4705b",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-x86_64.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.28%2B92-x86_64.apk",
+      "size_bytes": 76204061,
+      "sha256": "fda09492b2b7a3983fc86bc12720f0e749dbe38bffa2478c7769be72d1c458ee",
       "abi": "x86_64",
-      "version": "3.6.27",
-      "version_name": "3.6.27+91",
-      "date": "2026-10-13"
+      "version": "3.6.28",
+      "version_name": "3.6.28+92",
+      "date": "2026-10-14"
     }
   }
 }
