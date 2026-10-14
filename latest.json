@@ -5,10 +5,10 @@
   "latest_release_notes": "• Corrections de bugs et améliorations des performances.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.30%2B94-installer-2026-10-14_07-09-04.exe",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.30%2B94-installer-2026-10-14_07-09-04.exe",
-      "size_bytes": 70568064,
-      "sha256": "3e13033cf21ac38fbe643378e534086729c7fb7f92bd7bd032333cc0ffa1307d",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.30%2B94-installer-2026-10-14_07-44-39.exe",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-windows-v3.6.30%2B94-installer-2026-10-14_07-44-39.exe",
+      "size_bytes": 70569591,
+      "sha256": "14ab275baf6215961f8eddc19fe56a321b8e5544c8309dc017605f6e24629425",
       "version": "3.6.30",
       "version_name": "3.6.30+94",
       "date": "2026-10-14"
