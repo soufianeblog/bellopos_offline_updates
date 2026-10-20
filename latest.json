@@ -14,15 +14,15 @@
       "date": "2026-10-18"
     },
     "macos": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.32%2B96.zip",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.32%2B96.zip",
-      "dmg": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.32%2B96.dmg",
-      "size_bytes": 74724057,
-      "dmg_size_bytes": 74637425,
-      "sha256": "95f3f2793cf1019a0853969856bb5340f5d9c9c6e58c5de8604a333fef666b85",
-      "version": "3.6.32",
-      "version_name": "3.6.32+96",
-      "date": "2026-10-18"
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.33%2B97.zip",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.33%2B97.zip",
+      "dmg": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-macos-v3.6.33%2B97.dmg",
+      "size_bytes": 76834570,
+      "dmg_size_bytes": 76717544,
+      "sha256": "2f2f473a20e19a5a73835e2211c8c43330bdd06f530cf07b840fada037df15eb",
+      "version": "3.6.33",
+      "version_name": "3.6.33+97",
+      "date": "2026-10-20"
     },
     "android": {
       "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.6.32%2B96-arm64-v8a.apk",
