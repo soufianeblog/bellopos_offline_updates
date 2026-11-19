@@ -25,34 +25,34 @@
       "date": "2026-11-19"
     },
     "android": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-arm64-v8a.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-arm64-v8a.apk",
-      "size_bytes": 84534293,
-      "sha256": "2acb0dcea9077281ca19f28278ed9fbdfaf048132d96c11a77eb77065e6b6fce",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-arm64-v8a.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-arm64-v8a.apk",
+      "size_bytes": 84599829,
+      "sha256": "50d82ea96daa715376e8f42523a9dc7da356cfce9b405b98f3084fab0a24869a",
       "abi": "arm64-v8a",
-      "version": "3.8.8",
-      "version_name": "3.8.8+118",
-      "date": "2026-11-18"
+      "version": "3.8.9",
+      "version_name": "3.8.9+119",
+      "date": "2026-11-19"
     },
     "android_armv7": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-armeabi-v7a.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-armeabi-v7a.apk",
-      "size_bytes": 85756907,
-      "sha256": "776d9ba982ab93fc099f909f3b83d09f851950b1bfa07a5ebf3498103b4bd13d",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-armeabi-v7a.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-armeabi-v7a.apk",
+      "size_bytes": 85822443,
+      "sha256": "9bae5d599e2fb3725face2be002cf7c896c537369030dbbf2514d61c1d5c9f41",
       "abi": "armeabi-v7a",
-      "version": "3.8.8",
-      "version_name": "3.8.8+118",
-      "date": "2026-11-18"
+      "version": "3.8.9",
+      "version_name": "3.8.9+119",
+      "date": "2026-11-19"
     },
     "android_x64": {
-      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-x86_64.apk",
-      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.8%2B118-x86_64.apk",
-      "size_bytes": 89872856,
-      "sha256": "1bd774cf7c63279a039885ade0b1f791207036f7fa6c8321183ed1bd8aa3346f",
+      "file": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-x86_64.apk",
+      "url": "https://github.com/soufianeblog/bellopos_offline_updates/raw/refs/heads/main/BelloPOS-android-v3.8.9%2B119-x86_64.apk",
+      "size_bytes": 89938392,
+      "sha256": "57deeafb935d8777b7a7d8ea39f31cc5cdef48f98fd0214156bcb60b3580fda6",
       "abi": "x86_64",
-      "version": "3.8.8",
-      "version_name": "3.8.8+118",
-      "date": "2026-11-18"
+      "version": "3.8.9",
+      "version_name": "3.8.9+119",
+      "date": "2026-11-19"
     }
   }
 }
